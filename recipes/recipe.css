@@ -1,0 +1,36 @@
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+    background-color: darkred;
+    color: white;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+li {
+    font-size: 18px;
+}
